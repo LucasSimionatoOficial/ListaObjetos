@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\ListaObjetos\bin\Debug\net5.0\ListaObjetos.exe
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\ListaObjetos\bin\Debug\net5.0\ListaObjetos.deps.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\ListaObjetos\bin\Debug\net5.0\ListaObjetos.runtimeconfig.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\ListaObjetos\bin\Debug\net5.0\ListaObjetos.runtimeconfig.dev.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\ListaObjetos\bin\Debug\net5.0\ListaObjetos.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\ListaObjetos\bin\Debug\net5.0\ref\ListaObjetos.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\ListaObjetos\bin\Debug\net5.0\ListaObjetos.pdb
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\ListaObjetos\obj\Debug\net5.0\ListaObjetos.csprojAssemblyReference.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\ListaObjetos\obj\Debug\net5.0\ListaObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\ListaObjetos\obj\Debug\net5.0\ListaObjetos.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\ListaObjetos\obj\Debug\net5.0\ListaObjetos.AssemblyInfo.cs
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\ListaObjetos\obj\Debug\net5.0\ListaObjetos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\ListaObjetos\obj\Debug\net5.0\ListaObjetos.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\ListaObjetos\obj\Debug\net5.0\ref\ListaObjetos.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\ListaObjetos\obj\Debug\net5.0\ListaObjetos.pdb
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\ListaObjetos\obj\Debug\net5.0\ListaObjetos.genruntimeconfig.cache
